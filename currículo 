@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo - Jéssica Freitas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Jéssica Freitas dos Santos</h1>
+        <p>Email: <a href="mailto:jessicafreitas.sntos@gmail.com">jessicafreitas.sntos@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/jessfrtsntos" target="_blank">linkedin.com/in/jessfrtsntos</a></p>
+        <p>GitHub: <a href="https://github.com/jessfrt" target="_blank">github.com/jessfrt</a></p>
+    </header>
+
+    <section>
+        <h2>Perfil Profissional</h2>
+        <p>Estudante de Engenharia de Software com habilidades em desenvolvimento web, lógica de programação e modelagem de sistemas. Possui conhecimento em HTML, CSS, JavaScript, SQL e Git, além de experiência com metodologias ágeis. Apaixonada por tecnologia e resolução de problemas, busca aprimorar-se constantemente para criar soluções inovadoras e eficientes.</p>
+    </section>
+
+    <section>
+        <h2>Educação</h2>
+        <p><strong>Engenharia de Software</strong> - Universidade Severino Sombra (2º Período)</p>
+    </section>
+
+    <section>
+        <h2>Habilidades</h2>
+        <ul>
+            <li>HTML, CSS e JavaScript básico</li>
+            <li>Programação em Python e Java</li>
+            <li>Banco de Dados SQL (CRUD básico)</li>
+            <li>Engenharia de Requisitos e Modelagem UML</li>
+            <li>Controle de versão com Git e GitHub</li>
+            <li>Metodologias Ágeis (Scrum básico)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projetos Acadêmicos</h2>
+        <ul>
+            <li><strong>Cadastro de Usuários</strong> - Sistema em Python com interface gráfica para cadastro de usuários utilizando SQLite.</li>
+            <li><strong>Simulador de Loja Online</strong> - Página web interativa com HTML, CSS e JavaScript para simulação de compras.</li>
+            <li><strong>Gerenciador de Tarefas</strong> - Aplicação Java com banco de dados para gerenciamento de tarefas e deadlines.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Experiência</h2>
+        <p><strong>Criação de Site Pessoal</strong></p>
+        <p>Desenvolvimento de um site estático utilizando HTML e CSS para apresentação pessoal e portfólio, hospedado no GitHub Pages.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 - Jéssica Freitas dos Santos</p>
+    </footer>
+</body>
+</html>
